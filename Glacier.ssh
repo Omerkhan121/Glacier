@@ -1,0 +1,8 @@
+Http:
+  Listen: "127.0.0.1:10801"
+Network: "testnet"
+RemoteBootstrap: "https://glacier-labs.github.io/node-bootstrap/"
+Keystore:
+  PrivateKey: "63fffa834bf4220325c61b6ea75f325bb0fe03cffe2fc7edf77301a4137fbbf4"
+TEE:
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
